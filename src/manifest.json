@@ -1,0 +1,59 @@
+{
+  "bundles": [
+    {
+      "name": "load-screen",
+      "assets": [
+        {
+          "name": "logo",
+          "srcs": "assets/core/logo_white.png"
+        },
+        {
+          "name": "background",
+          "srcs": "assets/background.png"
+        }
+      ]
+    },
+    {
+      "name": "fonts",
+      "assets": [
+        {
+          "name": "customFont",
+          "srcs": "assets/Sniglet-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "name": "game-screen",
+      "assets": [
+        {
+          "name": "bubble-white",
+          "srcs": "assets/bubble-white.png"
+        },
+        {
+          "name": "circle0",
+          "srcs": "assets/circle0.png"
+        },
+        {
+          "name": "cross",
+          "srcs": "assets/cross.png"
+        },
+        {
+          "name": "tick",
+          "srcs": "assets/tick.png"
+        },
+        {
+          "name": "gray-pane",
+          "srcs": "assets/gray-pane.png"
+        },
+        {
+          "name": "green-pane",
+          "srcs": "assets/green-pane.png"
+        },
+        {
+          "name": "orange-pane",
+          "srcs": "assets/orange-pane.png"
+        }
+      ]
+    }
+  ]
+}
